@@ -1,5 +1,13 @@
 # Simple Flask App
 
+Status TravisCi
+
+[![Build Status](https://travis-ci.com/Jula90210/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/Jula90210/se_hello_printer_app)
+
+Monitoring w statuscake.com
+
+[![Build Status](https://app.statuscake.com/button/index.php?Track=6003178&Days=1&Design=1)
+
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
@@ -63,9 +71,6 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 # miejsce na twoje notatki
 
   ```
-Status TravisCi
-
-[![Build Status](https://travis-ci.com/Jula90210/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/Jula90210/se_hello_printer_app)
 
 # Pomocnicze
 
@@ -94,7 +99,3 @@ Status TravisCi
   $ yum install -y docker-ce
   $ systemctl start docker
   ```
-
-Monitoring w statuscake.com
-
-[![Build Status](https://app.statuscake.com/button/index.php?Track=6003178&Days=1&Design=1)
