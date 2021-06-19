@@ -1,4 +1,3 @@
-#Dodanej zmiany
 # Simple Flask App
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
@@ -61,9 +60,12 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - Integracja z TravisCI:
 
+# miejsce na twoje notatki
+
   ```
-  # miejsce na twoje notatki
-  ```
+Status TravisCi:
+
+[![Build Status](https://travis-ci.com/Jula90210/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/Jula90210/se_hello_printer_app)
 
 # Pomocnicze
 
@@ -92,3 +94,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ yum install -y docker-ce
   $ systemctl start docker
   ```
+
+Monitoring w statuscake.com
+# https://app.statuscake.com/UptimeStatus.php?tid=6003178
+# https://app.statuscake.com/button/index.php?Track=TRACK_ID&Days=1&Design=1
+app.statuscake.com/button/index.php?Track=6003178&Days=1&Design=1
