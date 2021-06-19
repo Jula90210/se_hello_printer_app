@@ -6,7 +6,7 @@ Status TravisCi
 
 Monitoring w statuscake.com
 
-[![Build Status](https://app.statuscake.com/button/index.php?Track=6003178&Days=1&Design=1)
+![Build Status](https://app.statuscake.com/button/index.php?Track=6003178&Days=1&Design=1)
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
