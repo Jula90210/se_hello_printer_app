@@ -63,7 +63,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 # miejsce na twoje notatki
 
   ```
-Status TravisCi:
+Status TravisCi
 
 [![Build Status](https://travis-ci.com/Jula90210/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/Jula90210/se_hello_printer_app)
 
@@ -96,6 +96,5 @@ Status TravisCi:
   ```
 
 Monitoring w statuscake.com
-# https://app.statuscake.com/UptimeStatus.php?tid=6003178
-# https://app.statuscake.com/button/index.php?Track=TRACK_ID&Days=1&Design=1
-app.statuscake.com/button/index.php?Track=6003178&Days=1&Design=1
+
+[![Build Status](https://app.statuscake.com/button/index.php?Track=6003178&Days=1&Design=1)
